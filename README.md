@@ -13,7 +13,7 @@
 **To use our website** 
 1) first of all if you are chef or admin you can simply write the username and password no need to signup
 
-   username :admin password:admin
+   username :admin password:admin   or  
    username:chef password: chef 
    
    but if you are a user you need to signup then go to sign in page and put the username and password to enter our homepage
